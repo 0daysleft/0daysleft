@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Improving previous repos with advanced features...
-- 🌱 I’m currently working on ReactJS...
+I’m a front-end developer specializing in Next.js, React, and modern UI engineering. I build fast, scalable, and clean user experiences with strong attention to performance, design standards, and developer-friendly architecture.
+
+I take ideas from concept to polished, production-ready products—whether working independently or within an engineering team. My background spans UI development, web performance, responsive design, and full-stack fundamentals, shaped through internships, real-world projects, and continuous self-driven learning.
+
+I’m currently focused on mastering Next.js, server-side rendering, API integrations, and modern front-end best practices while building a portfolio of polished, real-world applications.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0day101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whiteangel@duck.com) 
