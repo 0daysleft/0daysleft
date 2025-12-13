@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m a front-end developer specializing in Next.js, React, and modern UI engineering. I build fast, scalable, and clean user experiences with strong attention to performance, design standards, and developer-friendly architecture.
+I’m a front-end developer specializing in Next.js, React, and modern UI engineering. I build fast, scalable, and clean user experiences.
 
-I take ideas from concept to polished, production-ready products—whether working independently or within an engineering team. My background spans UI development, web performance, responsive design, and full-stack fundamentals, shaped through internships, real-world projects, and continuous self-driven learning.
+I take ideas from concept to polished, production-ready products. My background spans UI development, web performance, responsive design, and full-stack fundamentals, shaped through internships, real-world projects, and continuous self-driven learning.
 
 I’m currently focused on mastering Next.js, server-side rendering, API integrations, and modern front-end best practices while building a portfolio of polished, real-world applications.
 
